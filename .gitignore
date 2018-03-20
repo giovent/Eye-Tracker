@@ -1,0 +1,11 @@
+Dataset/*
+Trained\ Models/*
+ModelToDemo/*
+*.pyc
+*.save
+*.swp
+Tensorboard/*
+Haar-Cascades/*
+Saved/*
+Demo.ogv
+*.git
