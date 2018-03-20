@@ -7,7 +7,7 @@ Requirements to run demo.py:
 - Numpy
 
 
-<img src="smaller.gif" width="500"/>
+<img src="smaller.gif" width="250"/>
 
 
 Note: the project is finished, still, I won't upload publicly the trained model until july 2018.
